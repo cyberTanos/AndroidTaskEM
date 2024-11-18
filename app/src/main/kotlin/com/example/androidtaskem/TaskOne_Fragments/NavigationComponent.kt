@@ -1,7 +1,8 @@
-package com.example.androidtaskem
+package com.example.androidtaskem.TaskOne_Fragments
 
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
+import com.example.androidtaskem.R
 
 fun AppCompatActivity.setStartScreen(fragment: Fragment) {
     supportFragmentManager

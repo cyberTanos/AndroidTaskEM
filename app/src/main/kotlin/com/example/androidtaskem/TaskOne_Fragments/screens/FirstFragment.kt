@@ -1,4 +1,4 @@
-package com.example.androidtaskem.screens
+package com.example.androidtaskem.TaskOne_Fragments.screens
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,9 +6,9 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.example.androidtaskem.R
-import com.example.androidtaskem.back
+import com.example.androidtaskem.TaskOne_Fragments.back
 import com.example.androidtaskem.databinding.FragmentFirstBinding
-import com.example.androidtaskem.navigate
+import com.example.androidtaskem.TaskOne_Fragments.navigate
 
 class FirstFragment : Fragment(R.layout.fragment_first) {
 
