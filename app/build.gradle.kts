@@ -40,4 +40,7 @@ dependencies {
     implementation(libs.material)
     implementation(libs.androidx.activity)
     implementation(libs.androidx.constraintlayout)
+
+    // WorkManager
+    implementation("androidx.work:work-runtime-ktx:2.9.1")
 }
